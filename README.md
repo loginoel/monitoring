@@ -17,6 +17,13 @@ Running in Firefox before and after connecting:
 
 ### Quick Start
 
+Star Monitoring Stack
+
+```bash
+docker-compose up
+```
+
+
 Grafana:
 
 ```bash
