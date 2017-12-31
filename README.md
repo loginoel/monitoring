@@ -11,20 +11,22 @@
 
 Running in Firefox before and after connecting:
 
-<img src="https://i.imgur.com/ziZPIpH.jpg" width=400>&nbsp;
-<img src="https://i.imgur.com/UZMnFPP.jpg" width=400>
-<img src="https://i.imgur.com/eMGFt2c.jpg" width=400>
+<img src="https://i.imgur.com/gJPWhj3.jpg" width=400>&nbsp;
+<img src="https://i.imgur.com/aGmJiFU.jpg" width=400>
+<img src="https://i.imgur.com/h71EF1C.jpg" width=400>
 
 ### Quick Start
 
-URL Grafana:
+Grafana:
 
 ```bash
-http://127.0.0.1:3000
+Url: http://127.0.0.1:3000
+User: admin
+Password: admin
 ```
 
-URL Prometheus:
+Prometheus:
 
 ```bash
-http://127.0.0.1:9090
+Url: http://127.0.0.1:9090
 ```
