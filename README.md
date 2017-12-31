@@ -13,7 +13,7 @@ Running in Firefox before and after connecting:
 
 <img src="https://i.imgur.com/gJPWhj3.jpg" width=400>&nbsp;
 <img src="https://i.imgur.com/aGmJiFU.jpg" width=400>
-<img src="https://i.imgur.com/h71EF1C.jpg" width=400>
+<img src="https://i.imgur.com/5m2s6lK.jpg" width=400>
 
 ### Quick Start
 
